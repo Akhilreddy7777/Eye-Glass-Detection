@@ -6,7 +6,7 @@ Visual Studio 2017 (For Deployment)
 
 
 Most of the code is taken from facenet.
-for training go to train-softmax.py in the src folder
+for training go to train-softmax.py in the facenet-master/src/ folder
 and Run: 
 python train_softmax.py [give the dataset path, pretrained models path if any] look at the parse arguments if any
 
