@@ -4,6 +4,10 @@ Tensorflow 1.13 (for training and testing in Python)
 OpenCV 3.4.1 (For Deployment)
 Visual Studio 2017 (For Deployment)
 
+NOTE: Training code is in facenet-master folder
+
+
+
 
 Most of the code is taken from facenet.
 for training go to train-softmax.py in the facenet-master/src/ folder
