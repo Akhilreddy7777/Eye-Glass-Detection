@@ -54,7 +54,13 @@ Optimizing the model:
 
 	After making changes 
 	Run optim.py
+	
+	
+	
+Quantizing the model:
 
+	After optimizing, if you want to reduce the size of the model, we have used tensorflow quantization to quantize the weights.
+	Run: 'python quant.py' under the folder quantization folder
 
 
 ##############################################################################
