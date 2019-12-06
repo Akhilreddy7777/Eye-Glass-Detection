@@ -5,7 +5,8 @@ OpenCV 3.4.1 (For Deployment)
 Visual Studio 2017 (For Deployment)
 
 NOTE: Training code is in facenet-master folder
-
+OpenCV deployment code is in Deployemtn folder
+quantizing the weights script is in quantization folder
 
 
 
